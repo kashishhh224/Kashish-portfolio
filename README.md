@@ -61,7 +61,7 @@ The portfolio emphasizes clean design, responsiveness, and a seamless user exper
 ## 🌍 Live Demo
 
 🔗 The live version of this portfolio can be accessed here:
-[Add your GitHub Pages link here]
+[https://kashish-portfolio-beryl.vercel.app]
 
 ---
 
