@@ -58,19 +58,6 @@ The portfolio emphasizes clean design, responsiveness, and a seamless user exper
 
 ---
 
-## 📂 Installation & Setup
-
-To run this project locally, follow the steps below:
-
-```bash id="k8j3hd"
-git clone https://github.com/your-username/kashish-portfolio.git
-cd kashish-portfolio
-```
-
-Open the `index.html` file in your preferred web browser.
-
----
-
 ## 🌍 Live Demo
 
 🔗 The live version of this portfolio can be accessed here:
